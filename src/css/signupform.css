@@ -1,0 +1,22 @@
+.forminput {
+
+    color: #C0622B;
+    background-color: white;
+
+}
+.signupbtn{
+    color: white;
+    background-color: #C0622B;
+    transition: all 0.4s ease;
+    transition-delay: 0s;
+}
+.signupbtn:hover{
+    color: #C0622B;
+    background-color: #FFFAED;
+    border: 1px solid #f15b05;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.signupheading{
+    color: #C0622B;
+}
